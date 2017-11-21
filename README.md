@@ -6,7 +6,8 @@ These are the design files for the Music Thing Modular Spring Reverb.
 
 You can [buy full kits for the Spring module here at Thonk](https://www.thonk.co.uk/shop/mtm-spring-reverb-mkii-kit/?utm_source=github), and [here's the kit for the expander](https://www.thonk.co.uk/shop/mtm-spring-expander-kit/?utm_source=github). 
 
-
+# Issues and troubleshooting 
+The quickest way to find solutions or report issues is [here in the issue log](https://github.com/TomWhitwell/Spring-Reverb-Mk-2/issues)
 
 # In this repository you will find: 
 
@@ -19,7 +20,6 @@ Eagle CAD PCB files for:
 4. A plan PCB panel for the expander: Spring_Rev2_expander_panel
 
 The draft BOM is [here on google drive](https://docs.google.com/spreadsheets/d/1CzZeQc7hFVf5DQ_6vUL5soYb9Bh4oqvPB2Zx_D7NQ_I/edit?usp=sharing)
-
 
 # License
 
