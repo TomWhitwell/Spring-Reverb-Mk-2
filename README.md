@@ -10,6 +10,8 @@ You can [buy full kits for the Spring module here at Thonk](https://www.thonk.co
 
 # In this repository you will find: 
 
+[The Schematic PDF is here](https://github.com/TomWhitwell/Spring-Reverb-Mk-2/raw/master/Collateral/SpringReverbMk2-Schematic.pdf) 
+
 Eagle CAD PCB files for:  
 1. The main module, which contains two PCBs in the same file: SpringReverbRev2_combined
 2. A plain PCB panel for the main module: SpringReverbRev2_panel
@@ -17,7 +19,6 @@ Eagle CAD PCB files for:
 4. A plan PCB panel for the expander: Spring_Rev2_expander_panel
 
 The draft BOM is [here on google drive](https://docs.google.com/spreadsheets/d/1CzZeQc7hFVf5DQ_6vUL5soYb9Bh4oqvPB2Zx_D7NQ_I/edit?usp=sharing)
-
 
 
 # License
