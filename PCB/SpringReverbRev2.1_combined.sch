@@ -9559,7 +9559,8 @@ New LED (c. 230mcd @ 20mA) = </text>
 <net name="S+" class="0">
 <segment>
 <wire x1="66.04" y1="251.46" x2="66.04" y2="248.92" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="248.92" x2="66.04" y2="241.3" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="248.92" x2="66.04" y2="246.38" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="246.38" x2="66.04" y2="241.3" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="259.08" x2="20.32" y2="259.08" width="0.1524" layer="91"/>
 <wire x1="20.32" y1="259.08" x2="20.32" y2="241.3" width="0.1524" layer="91"/>
 <pinref part="C101" gate="G$1" pin="+"/>
@@ -9573,6 +9574,10 @@ New LED (c. 230mcd @ 20mA) = </text>
 <pinref part="IC102" gate="C" pin="-IN"/>
 <pinref part="TO_TANK" gate="G$1" pin="SLEEVE"/>
 <junction x="66.04" y="248.92"/>
+<pinref part="JP101" gate="G$1" pin="1"/>
+<wire x1="78.74" y1="259.08" x2="78.74" y2="246.38" width="0.1524" layer="91"/>
+<wire x1="78.74" y1="246.38" x2="66.04" y2="246.38" width="0.1524" layer="91"/>
+<junction x="66.04" y="246.38"/>
 </segment>
 </net>
 <net name="N$26" class="0">
@@ -10089,12 +10094,6 @@ New LED (c. 230mcd @ 20mA) = </text>
 <wire x1="30.48" y1="121.92" x2="35.56" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="121.92" x2="35.56" y2="134.62" width="0.1524" layer="91"/>
 <junction x="30.48" y="121.92"/>
-</segment>
-</net>
-<net name="N$14" class="0">
-<segment>
-<pinref part="JP101" gate="G$1" pin="1"/>
-<wire x1="78.74" y1="259.08" x2="78.74" y2="246.38" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
